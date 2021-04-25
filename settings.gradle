@@ -1,0 +1,3 @@
+include ':ScreenAdaptation'
+include ':app'
+rootProject.name = "EdwAndroidTools"
